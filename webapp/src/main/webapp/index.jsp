@@ -1,2 +1,3 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1>Hitachi Groups</h1>
+<h6>Hello From Vineeth from Global Logic.</h6>
 
